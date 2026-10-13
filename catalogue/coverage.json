@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "live_refresh_status": "not_run_yet",
+  "number_of_configured_sources": 12,
+  "number_of_seeded_public_directory_entries": 94,
+  "provider_counts": {
+    "nrma": 72,
+    "everyday": 22,
+    "qantas": 0,
+    "amex": 0,
+    "optus": 0
+  },
+  "crawl_results": [],
+  "coverage_pct": null,
+  "note": "Initial observations from official publicly indexed pages. Source collector has not run against live pages. Public published offers are not a full list of all available benefits."
+}

@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "nrma_egift_cards",
+      "provider": "nrma",
+      "kind": "egift_directory",
+      "url": "https://benefits.mynrma.com.au/en/things-to-do/egift-cards",
+      "frequency_hours": 24,
+      "max_details": 80,
+      "needs_render": false
+    },
+    {
+      "id": "nrma_sydney_attractions",
+      "provider": "nrma",
+      "kind": "attraction_directory",
+      "url": "https://benefits.mynrma.com.au/en/sydney/attractions",
+      "frequency_hours": 24,
+      "max_details": 70
+    },
+    {
+      "id": "nrma_goldcoast_attractions",
+      "provider": "nrma",
+      "kind": "attraction_directory",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/attractions",
+      "frequency_hours": 24,
+      "max_details": 70
+    },
+    {
+      "id": "nrma_melbourne_attractions",
+      "provider": "nrma",
+      "kind": "attraction_directory",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/attractions",
+      "frequency_hours": 24,
+      "max_details": 70
+    },
+    {
+      "id": "nrma_general_attractions",
+      "provider": "nrma",
+      "kind": "attraction_directory",
+      "url": "https://benefits.mynrma.com.au/en/things-to-do/attractions",
+      "frequency_hours": 24,
+      "max_details": 70
+    },
+    {
+      "id": "nrma_experiences",
+      "provider": "nrma",
+      "kind": "attraction_directory",
+      "url": "https://benefits.mynrma.com.au/en/listing/experiences-and-attractions",
+      "frequency_hours": 24,
+      "max_details": 70,
+      "needs_render": true
+    },
+    {
+      "id": "nrma_shopping",
+      "provider": "nrma",
+      "kind": "partner_directory",
+      "url": "https://benefits.mynrma.com.au/en/listing/shopping-and-lifestyle",
+      "frequency_hours": 24,
+      "needs_render": true
+    },
+    {
+      "id": "qantas_shopping",
+      "provider": "qantas",
+      "kind": "programme_info",
+      "url": "https://shopping.qantas.com/how-it-works",
+      "frequency_hours": 24
+    },
+    {
+      "id": "qantas_partner_directory",
+      "provider": "qantas",
+      "kind": "partner_directory",
+      "url": "https://shopping.qantas.com/",
+      "frequency_hours": 24,
+      "needs_render": true
+    },
+    {
+      "id": "everyday_rewards",
+      "provider": "everyday",
+      "kind": "partner_directory",
+      "url": "https://www.everyday.com.au/rewards/partners.html",
+      "frequency_hours": 24
+    },
+    {
+      "id": "amex_explorer",
+      "provider": "amex",
+      "kind": "card_info",
+      "url": "https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/",
+      "frequency_hours": 24
+    },
+    {
+      "id": "optus_subhub",
+      "provider": "optus",
+      "kind": "programme_info",
+      "url": "https://optus.com.au/support/answer/what_is_optus_subhub_20136",
+      "frequency_hours": 24
+    }
+  ]
+}
