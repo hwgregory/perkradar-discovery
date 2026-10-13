@@ -1,17 +1,513 @@
 {
-  "schema_version": 1,
-  "generated_at": null,
-  "live_refresh_status": "not_run_yet",
-  "number_of_configured_sources": 12,
-  "number_of_seeded_public_directory_entries": 94,
-  "provider_counts": {
-    "nrma": 72,
-    "everyday": 22,
-    "qantas": 0,
-    "amex": 0,
-    "optus": 0
+  "generated_at": "2026-10-13T05:24:28+00:00",
+  "source_counts": {
+    "ok": 5,
+    "rendered": 2,
+    "blocked: robots unavailable (403)": 1,
+    "restricted (403)": 1,
+    "no partner links extracted (JS rendering or source adapter needed)": 1,
+    "programme information checked; no structured offers exported": 2
   },
-  "crawl_results": [],
-  "coverage_pct": null,
-  "note": "Initial observations from official publicly indexed pages. Source collector has not run against live pages. Public published offers are not a full list of all available benefits."
+  "total_discovered": 236,
+  "by_provider": {
+    "nrma": 214,
+    "everyday": 22
+  },
+  "by_status": {
+    "published_unpriced": 231,
+    "verified": 2,
+    "needs_review": 3
+  },
+  "sources": [
+    {
+      "source": "nrma_egift_cards",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/things-to-do/egift-cards",
+      "status": "ok",
+      "items": 48,
+      "new": 0,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/sydney/attractions",
+      "status": "ok",
+      "items": 43,
+      "new": 42,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/attractions",
+      "status": "ok",
+      "items": 41,
+      "new": 24,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/attractions",
+      "status": "ok",
+      "items": 40,
+      "new": 22,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/things-to-do/attractions",
+      "status": "ok",
+      "items": 72,
+      "new": 49,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "nrma_experiences",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/listing/experiences-and-attractions",
+      "status": "rendered",
+      "items": 9,
+      "new": 2,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "nrma_shopping",
+      "provider": "nrma",
+      "url": "https://benefits.mynrma.com.au/en/listing/shopping-and-lifestyle",
+      "status": "rendered",
+      "items": 3,
+      "new": 3,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "qantas_shopping",
+      "provider": "qantas",
+      "url": "https://shopping.qantas.com/how-it-works",
+      "status": "blocked: robots unavailable (403)",
+      "items": 0,
+      "new": 0,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "qantas_partner_directory",
+      "provider": "qantas",
+      "url": "https://shopping.qantas.com/",
+      "status": "restricted (403)",
+      "items": 0,
+      "new": 0,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "everyday_rewards",
+      "provider": "everyday",
+      "url": "https://www.everyday.com.au/rewards/partners.html",
+      "status": "no partner links extracted (JS rendering or source adapter needed)",
+      "items": 0,
+      "new": 0,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "amex_explorer",
+      "provider": "amex",
+      "url": "https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/",
+      "status": "programme information checked; no structured offers exported",
+      "items": 0,
+      "new": 0,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    },
+    {
+      "source": "optus_subhub",
+      "provider": "optus",
+      "url": "https://optus.com.au/support/answer/what_is_optus_subhub_20136",
+      "status": "programme information checked; no structured offers exported",
+      "items": 0,
+      "new": 0,
+      "last_checked": "2026-10-13T05:24:28+00:00"
+    }
+  ],
+  "review_queue": [
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/forever-new-egift-cards"
+    },
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/freedom-furniture-egift-cards"
+    },
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/priceline-egift-cards"
+    },
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/youfoodz-egift-card"
+    },
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/jaycar-electronics-egift-card"
+    },
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/iga-egift-card"
+    },
+    {
+      "source": "nrma_egift_cards",
+      "reason": "detail http 500",
+      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/funlab-egift-card"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/sea-life-sydney-aquarium-admission"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/madame-tussauds-sydney"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/wild-life-sydney-zoo-entry-tickets"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/nrma-popcorn-and-drink-voucher"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/nrma-esaver-and-popcorn-package"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/nrma-members-choc-top-voucher"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/breakfast-with-koalas-experience"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/australian-national-maritime-museum-entry"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/the-escape-hunt-experience"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/bruce-glen-the-gentleman-magician-magic-show"
+    },
+    {
+      "source": "nrma_sydney_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/sydney-tower-eye-general-admission"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/5-day-multi-park-pass---hopo-return-sea-world-cruise"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/5-day-theme-park-pass"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/infinity"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/the-wax-museum-admission-tickets"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/illusions-dinner-show"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/village-roadshow-super-pass"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/tropical-fruit-world-entry"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/artvo-illusions-gallery-tickets"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/tamborine-rainforest-skywalk-entry"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/formula-kart-packs"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/paradise-country-koala-breakfast"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/planet-chill-session-9-11"
+    },
+    {
+      "source": "nrma_goldcoast_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/gold-coast-turf-club-general-admission-entry"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/sea-life-melbourne-aquarium-entry---dynamic-pricing"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/legoland--discovery-centre-general-admission"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/shrine-of-remembrance-tour"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/belgrave-to-gembrook"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/maxsuper-vr-experience"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/the-es"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/exclusive-magic-show-at-marriott-hotel"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/belgrave-to-emerald-or-lakeside"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/-great-ocean-road-reverse-tour"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/ultimate-skydeck"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/phillip-island/phillip-island-nature-parks-ultimate-adventure-tour"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/phillip-island/phillip-island-nature-parks-guided-ranger-tour"
+    },
+    {
+      "source": "nrma_melbourne_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/cocktails-in-the-clouds"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/whitsundays/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/bay-of-islands/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/west-coast/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/wellington/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/port-arthur/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/bay-of-plenty/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/mt-cook/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/yarra-valley/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/mackay/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/gosford/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/paihia/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/tekapo/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/tauranga/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail http 404",
+      "url": "https://benefits.mynrma.com.au/en/gippsland/attractions"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sunshine-coast/australia-zoo-1-day-admission-with-sneak-peek---nrma"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sunshine-coast/australia-zoo-2-day-admission-with-sneak-peek---nrma"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/5-day-multi-park-pass---hopo-return-sea-world-cruise"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/gold-coast/5-day-theme-park-pass"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/melbourne/sea-life-melbourne-aquarium-entry---dynamic-pricing"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/sea-life-sydney-aquarium-admission"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/madame-tussauds-sydney"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/wild-life-sydney-zoo-entry-tickets"
+    },
+    {
+      "source": "nrma_general_attractions",
+      "reason": "detail blocked redirect",
+      "url": "https://benefits.mynrma.com.au/en/sydney/nrma-popcorn-and-drink-voucher"
+    },
+    {
+      "source": "nrma_experiences",
+      "reason": "detail blocked redirect by robots unavailable (403)",
+      "url": "https://benefits.mynrma.com.au/en/product/regional-cinemas"
+    },
+    {
+      "source": "nrma_shopping",
+      "reason": "Verify partner/earning rate and official merchant domain",
+      "url": "https://benefits.mynrma.com.au/en/d/itinerary/view"
+    },
+    {
+      "source": "nrma_shopping",
+      "reason": "Verify partner/earning rate and official merchant domain",
+      "url": "https://benefits.mynrma.com.au/en/product/apple-e-gift-card"
+    },
+    {
+      "source": "nrma_shopping",
+      "reason": "Verify partner/earning rate and official merchant domain",
+      "url": "https://benefits.mynrma.com.au/en/product/jb-hi-fi-egift-cards"
+    },
+    {
+      "source": "qantas_shopping",
+      "reason": "blocked: robots unavailable (403)",
+      "url": "https://shopping.qantas.com/how-it-works"
+    },
+    {
+      "source": "qantas_partner_directory",
+      "reason": "restricted (403)",
+      "url": "https://shopping.qantas.com/"
+    },
+    {
+      "source": "everyday_rewards",
+      "reason": "Partner listings not exposed as publicly retrievable links",
+      "url": "https://www.everyday.com.au/rewards/partners.html"
+    },
+    {
+      "source": "amex_explorer",
+      "reason": "Programme information only; personalised or tier-specific offers not publicly harvestable by this adapter",
+      "url": "https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/"
+    },
+    {
+      "source": "optus_subhub",
+      "reason": "Programme information only; personalised or tier-specific offers not publicly harvestable by this adapter",
+      "url": "https://optus.com.au/support/answer/what_is_optus_subhub_20136"
+    }
+  ]
 }
