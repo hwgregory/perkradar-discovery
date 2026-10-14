@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-13T17:38:14+00:00",
+  "generated_at": "2026-10-14T17:51:26+00:00",
   "source_counts": {
     "ok": 5,
     "rendered": 2,
-    "blocked: robots unavailable (403)": 2,
-    "no partner links extracted (JS rendering or source adapter needed)": 1,
+    "blocked: robots unavailable (403)": 1,
+    "no partner links extracted (JS rendering or source adapter needed)": 2,
     "programme information checked; no structured offers exported": 2
   },
   "total_discovered": 236,
@@ -25,7 +25,7 @@
       "status": "ok",
       "items": 48,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "nrma_sydney_attractions",
@@ -34,7 +34,7 @@
       "status": "ok",
       "items": 43,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "nrma_goldcoast_attractions",
@@ -43,7 +43,7 @@
       "status": "ok",
       "items": 41,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "nrma_melbourne_attractions",
@@ -52,7 +52,7 @@
       "status": "ok",
       "items": 40,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "nrma_general_attractions",
@@ -61,25 +61,25 @@
       "status": "ok",
       "items": 72,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "nrma_experiences",
       "provider": "nrma",
       "url": "https://benefits.mynrma.com.au/en/listing/experiences-and-attractions",
       "status": "rendered",
-      "items": 7,
+      "items": 9,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "nrma_shopping",
       "provider": "nrma",
       "url": "https://benefits.mynrma.com.au/en/listing/shopping-and-lifestyle",
       "status": "rendered",
-      "items": 1,
+      "items": 3,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "qantas_shopping",
@@ -88,16 +88,16 @@
       "status": "blocked: robots unavailable (403)",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "qantas_partner_directory",
       "provider": "qantas",
       "url": "https://shopping.qantas.com/",
-      "status": "blocked: robots unavailable (403)",
+      "status": "no partner links extracted (JS rendering or source adapter needed)",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "everyday_rewards",
@@ -106,7 +106,7 @@
       "status": "no partner links extracted (JS rendering or source adapter needed)",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "amex_explorer",
@@ -115,7 +115,7 @@
       "status": "programme information checked; no structured offers exported",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     },
     {
       "source": "optus_subhub",
@@ -124,7 +124,7 @@
       "status": "programme information checked; no structured offers exported",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-13T17:38:14+00:00"
+      "last_checked": "2026-10-14T17:51:26+00:00"
     }
   ],
   "review_queue": [
@@ -142,11 +142,6 @@
       "source": "nrma_egift_cards",
       "reason": "detail http 500",
       "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/iga-egift-card"
-    },
-    {
-      "source": "nrma_egift_cards",
-      "reason": "detail http 500",
-      "url": "https://benefits.mynrma.com.au/en/d/egift-card/all/funlab-egift-card"
     },
     {
       "source": "nrma_sydney_attractions",
@@ -449,9 +444,24 @@
       "url": "https://benefits.mynrma.com.au/en/sydney/nrma-popcorn-and-drink-voucher"
     },
     {
+      "source": "nrma_experiences",
+      "reason": "detail blocked redirect by robots unavailable (403)",
+      "url": "https://benefits.mynrma.com.au/en/product/regional-cinemas"
+    },
+    {
       "source": "nrma_shopping",
       "reason": "Verify partner/earning rate and official merchant domain",
       "url": "https://benefits.mynrma.com.au/en/d/itinerary/view"
+    },
+    {
+      "source": "nrma_shopping",
+      "reason": "Verify partner/earning rate and official merchant domain",
+      "url": "https://benefits.mynrma.com.au/en/product/apple-e-gift-card"
+    },
+    {
+      "source": "nrma_shopping",
+      "reason": "Verify partner/earning rate and official merchant domain",
+      "url": "https://benefits.mynrma.com.au/en/product/jb-hi-fi-egift-cards"
     },
     {
       "source": "qantas_shopping",
@@ -460,7 +470,7 @@
     },
     {
       "source": "qantas_partner_directory",
-      "reason": "blocked: robots unavailable (403)",
+      "reason": "Partner listings not exposed as publicly retrievable links",
       "url": "https://shopping.qantas.com/"
     },
     {
