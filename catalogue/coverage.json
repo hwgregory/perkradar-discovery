@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:49:29+00:00",
+  "generated_at": "2026-10-24T17:45:10+00:00",
   "source_counts": {
     "ok": 5,
     "rendered": 2,
@@ -25,7 +25,7 @@
       "status": "ok",
       "items": 49,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "nrma_sydney_attractions",
@@ -34,7 +34,7 @@
       "status": "ok",
       "items": 43,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "nrma_goldcoast_attractions",
@@ -43,7 +43,7 @@
       "status": "ok",
       "items": 41,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "nrma_melbourne_attractions",
@@ -52,7 +52,7 @@
       "status": "ok",
       "items": 40,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "nrma_general_attractions",
@@ -61,7 +61,7 @@
       "status": "ok",
       "items": 72,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "nrma_experiences",
@@ -70,7 +70,7 @@
       "status": "rendered",
       "items": 9,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "nrma_shopping",
@@ -79,7 +79,7 @@
       "status": "rendered",
       "items": 3,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "qantas_shopping",
@@ -88,7 +88,7 @@
       "status": "blocked: robots unavailable (403)",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "qantas_partner_directory",
@@ -97,7 +97,7 @@
       "status": "no partner links extracted (JS rendering or source adapter needed)",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "everyday_rewards",
@@ -106,7 +106,7 @@
       "status": "no partner links extracted (JS rendering or source adapter needed)",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "amex_explorer",
@@ -115,7 +115,7 @@
       "status": "programme information checked; no structured offers exported",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     },
     {
       "source": "optus_subhub",
@@ -124,7 +124,7 @@
       "status": "programme information checked; no structured offers exported",
       "items": 0,
       "new": 0,
-      "last_checked": "2026-10-23T17:49:29+00:00"
+      "last_checked": "2026-10-24T17:45:10+00:00"
     }
   ],
   "review_queue": [
