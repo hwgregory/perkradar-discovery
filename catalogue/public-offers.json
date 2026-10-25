@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T17:45:10+00:00",
+  "generated_at": "2026-10-25T17:45:54+00:00",
   "offers": [
     {
       "id": "everyday-partner-all-accor",
@@ -596,7 +596,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -622,7 +622,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -648,7 +648,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -674,13 +674,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Activities"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Best Melbourne Activities",
       "freshness": "recent"
     },
@@ -702,13 +702,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Adelaide"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Adelaide Attractions",
       "freshness": "recent"
     },
@@ -730,13 +730,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Alice Springs"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Alice Springs Attractions",
       "freshness": "recent"
     },
@@ -758,7 +758,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -784,13 +784,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "ArtVo Melbourne Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "ArtVo Melbourne Tickets",
       "freshness": "recent"
     },
@@ -812,13 +812,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "At Night"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Things to do in Melbourne At Night",
       "freshness": "recent"
     },
@@ -840,7 +840,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -866,13 +866,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Auckland"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Auckland Attractions",
       "freshness": "recent"
     },
@@ -894,7 +894,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -920,7 +920,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -946,7 +946,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -972,13 +972,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Australian Outback Spectacular Heartland Dinner & Show"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Australian Outback Spectacular Heartland Dinner & Show",
       "freshness": "recent"
     },
@@ -1000,13 +1000,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Automotive"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Automotive",
       "freshness": "recent"
     },
@@ -1028,13 +1028,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ballarat"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ballarat Attractions",
       "freshness": "recent"
     },
@@ -1056,13 +1056,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ballarat Wildlife Park General Admission"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ballarat Wildlife Park General Admission",
       "freshness": "recent"
     },
@@ -1084,7 +1084,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1110,7 +1110,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1136,13 +1136,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Brisbane"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Brisbane Attractions",
       "freshness": "recent"
     },
@@ -1164,13 +1164,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Broome"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Broome Attractions",
       "freshness": "recent"
     },
@@ -1192,13 +1192,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Byron Bay"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Byron Bay Attractions",
       "freshness": "recent"
     },
@@ -1220,13 +1220,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Cairns"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Cairns Attractions",
       "freshness": "recent"
     },
@@ -1248,13 +1248,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Caloundra"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Caloundra Attractions",
       "freshness": "recent"
     },
@@ -1276,13 +1276,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Canberra"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Canberra Attractions",
       "freshness": "recent"
     },
@@ -1304,7 +1304,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1330,13 +1330,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Christchurch"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Christchurch Attractions",
       "freshness": "recent"
     },
@@ -1358,13 +1358,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Cruises"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Cruises Dining & Sightseeing",
       "freshness": "recent"
     },
@@ -1386,13 +1386,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Crystal Castle Byron Bay General Admission Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Crystal Castle Byron Bay General Admission Tickets",
       "freshness": "recent"
     },
@@ -1414,13 +1414,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Currumbin Wildlife Sanctuary Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Currumbin Wildlife Sanctuary Tickets",
       "freshness": "recent"
     },
@@ -1442,13 +1442,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Darling Harbour"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Darling Harbour Attractions",
       "freshness": "recent"
     },
@@ -1470,13 +1470,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Darwin"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Darwin Attractions",
       "freshness": "recent"
     },
@@ -1498,13 +1498,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Dining"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Dining in and around Gold Coast",
       "freshness": "recent"
     },
@@ -1526,13 +1526,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Dining Experiences"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Dining Experiences",
       "freshness": "recent"
     },
@@ -1554,13 +1554,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Dinner Shows"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Gold Coast Dinner Shows",
       "freshness": "recent"
     },
@@ -1609,13 +1609,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Dreamworld and SkyPoint 2 Day Ticket"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Dreamworld and SkyPoint 2 Day Ticket",
       "freshness": "recent"
     },
@@ -1637,13 +1637,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "E-Gift Cards"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "E-Gift Cards in and around Melbourne",
       "freshness": "recent"
     },
@@ -1665,13 +1665,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Entertainment and attractions"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Entertainment and attractions in and around Sydney",
       "freshness": "recent"
     },
@@ -1693,7 +1693,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1719,7 +1719,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1745,7 +1745,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1771,13 +1771,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Extreme"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Extreme Activities",
       "freshness": "recent"
     },
@@ -1799,13 +1799,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Featherdale Sydney Wildlife Park Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Featherdale Sydney Wildlife Park Tickets",
       "freshness": "recent"
     },
@@ -1827,13 +1827,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Food and dining"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Food and dining in and around Sydney",
       "freshness": "recent"
     },
@@ -1855,13 +1855,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Food & dining"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Food & dining",
       "freshness": "recent"
     },
@@ -1883,13 +1883,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Geelong"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Best Geelong Attractions",
       "freshness": "recent"
     },
@@ -1911,7 +1911,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1937,13 +1937,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Gold Coast"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Gold Coast Attractions",
       "freshness": "recent"
     },
@@ -1965,7 +1965,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -1991,7 +1991,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2017,7 +2017,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2043,7 +2043,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2069,13 +2069,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Hamilton"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Hamilton Attractions",
       "freshness": "recent"
     },
@@ -2097,13 +2097,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Hanmer Springs"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Hanmer Springs Attractions",
       "freshness": "recent"
     },
@@ -2125,13 +2125,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Harbour Cruises"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Sydney Harbour Cruises Dining & Sightseeing",
       "freshness": "recent"
     },
@@ -2153,13 +2153,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Hobart"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Hobart Attractions",
       "freshness": "recent"
     },
@@ -2181,13 +2181,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Hunter Valley Wildlife Park"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Hunter Valley Wildlife Park",
       "freshness": "recent"
     },
@@ -2209,7 +2209,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2235,13 +2235,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "In the Air"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne In The Air Ballooning, Flights & more!",
       "freshness": "recent"
     },
@@ -2263,7 +2263,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2289,7 +2289,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2315,13 +2315,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Launceston"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Launceston Attractions",
       "freshness": "recent"
     },
@@ -2343,7 +2343,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2369,13 +2369,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Live Entertainment"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Gold Coast Live Entertainment Tickets",
       "freshness": "recent"
     },
@@ -2397,7 +2397,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2423,7 +2423,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2449,7 +2449,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2475,13 +2475,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Melbourne"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Melbourne Attractions",
       "freshness": "recent"
     },
@@ -2503,13 +2503,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Melbourne Aquarium Shark Dive Xtreme"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Aquarium Shark Dive Xtreme",
       "freshness": "recent"
     },
@@ -2531,13 +2531,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Melbourne Skydeck"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Skydeck in and around Melbourne",
       "freshness": "recent"
     },
@@ -2559,7 +2559,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2585,7 +2585,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2611,7 +2611,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2637,13 +2637,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Mission Beach"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Mission Beach Attractions",
       "freshness": "recent"
     },
@@ -2665,13 +2665,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Mogo Wildlife Park Entry Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Mogo Wildlife Park Entry Tickets",
       "freshness": "recent"
     },
@@ -2693,13 +2693,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Movie Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -2720,7 +2720,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2746,13 +2746,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "NSW Other"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -2773,13 +2773,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Off-Peak Movie Voucher (No 5pm Thurs,Fri,Sat) - All Ages"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Off-Peak Movie Voucher (No 5pm Thurs,Fri,Sat) - All Ages",
       "freshness": "recent"
     },
@@ -2801,13 +2801,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "★ Off-Peak Movie Voucher (No 5pm Thurs,Fri,Sat) - All Ages NRMA Off-Peak eSaver movie vouchers can be used on any standard session. not valid from 5pm on Thurs/Fri/Sat fr"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Off-Peak Movie Voucher (No 5pm Thurs,Fri,Sat) - All Ages",
       "freshness": "recent"
     },
@@ -2829,13 +2829,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "On Sale"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Gold Coast Tours and Attractions On Sale",
       "freshness": "recent"
     },
@@ -2857,7 +2857,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2883,13 +2883,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Palm Cove"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Palm Cove Attractions",
       "freshness": "recent"
     },
@@ -2911,7 +2911,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -2937,13 +2937,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Perth"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Perth Attractions",
       "freshness": "recent"
     },
@@ -2965,13 +2965,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Phillip Island"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Phillip Island Attractions",
       "freshness": "recent"
     },
@@ -2993,7 +2993,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3019,13 +3019,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Phillip Island Nature Parks Multi Park Pass"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Phillip Island Nature Parks Multi Park Pass",
       "freshness": "recent"
     },
@@ -3047,13 +3047,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Phillip Island Nature Parks Penguin Parade Entry"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Phillip Island Nature Parks Penguin Parade Entry",
       "freshness": "recent"
     },
@@ -3075,7 +3075,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3101,7 +3101,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3127,7 +3127,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3153,13 +3153,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Port Douglas"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Port Douglas Attractions",
       "freshness": "recent"
     },
@@ -3181,7 +3181,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3207,7 +3207,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3233,13 +3233,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "QLD Other"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Top QLD Other Attractions",
       "freshness": "recent"
     },
@@ -3261,13 +3261,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Queenstown"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Queenstown Attractions",
       "freshness": "recent"
     },
@@ -3289,13 +3289,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Rainy Days"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -3316,7 +3316,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3342,13 +3342,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Regional WA"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Regional WA Attractions",
       "freshness": "recent"
     },
@@ -3370,13 +3370,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "River Cruises"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne River Cruises",
       "freshness": "recent"
     },
@@ -3398,13 +3398,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Rotorua"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Rotorua Attractions",
       "freshness": "recent"
     },
@@ -3426,7 +3426,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3452,7 +3452,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3478,13 +3478,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Search near me"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -3505,13 +3505,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Services"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Services",
       "freshness": "recent"
     },
@@ -3533,13 +3533,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Shopping & lifestyle"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Shopping & lifestyle",
       "freshness": "recent"
     },
@@ -3561,7 +3561,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3587,13 +3587,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "SkyPoint Observation Deck 1 Day Ticket for Auto Club Members"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "SkyPoint Observation Deck 1 Day Ticket for Auto Club Members",
       "freshness": "recent"
     },
@@ -3615,7 +3615,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3641,13 +3641,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Sunshine Coast"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Sunshine Coast Attractions",
       "freshness": "recent"
     },
@@ -3669,13 +3669,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Surfers Paradise"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Surfers Paradise Attractions",
       "freshness": "recent"
     },
@@ -3697,13 +3697,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Sydney"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "The Top Sydney Attractions",
       "freshness": "recent"
     },
@@ -3725,13 +3725,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Sydney Attractions Pass - 3 Attractions"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Sydney Attractions Pass - 3 Attractions",
       "freshness": "recent"
     },
@@ -3753,7 +3753,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3779,7 +3779,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3805,13 +3805,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Symbio Wildlife Park Entry Tickets"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Symbio Wildlife Park Entry Tickets",
       "freshness": "recent"
     },
@@ -3833,7 +3833,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3886,13 +3886,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Taronga Zoo Sydney General Admission"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Taronga Zoo Sydney General Admission",
       "freshness": "recent"
     },
@@ -3914,7 +3914,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3940,7 +3940,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3966,7 +3966,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -3992,13 +3992,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Theme Parks"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -4019,13 +4019,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Things to do with Kids"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -4046,13 +4046,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Tours"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Tours & Day Trips",
       "freshness": "recent"
     },
@@ -4074,13 +4074,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Transport"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "freshness": "recent"
     },
     {
@@ -4101,13 +4101,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Travel & holidays"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Travel & holidays",
       "freshness": "recent"
     },
@@ -4129,7 +4129,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4155,13 +4155,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Vivid Sydney"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Experience Vivid Sydney!",
       "freshness": "recent"
     },
@@ -4183,13 +4183,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Water Sports"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Melbourne Water Sports",
       "freshness": "recent"
     },
@@ -4211,7 +4211,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4237,7 +4237,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4263,13 +4263,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Whale Watching"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Gold Coast Whale Watching Tours",
       "freshness": "recent"
     },
@@ -4291,7 +4291,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4317,7 +4317,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4343,7 +4343,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4369,7 +4369,7 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -4395,13 +4395,13 @@
       "eligibility": "Member availability, exact price and ticket conditions not verified.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Zoos & Aquariums"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Zoos & Aquariums in and around Melbourne",
       "freshness": "recent"
     },
@@ -4893,7 +4893,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "apple.com"
@@ -4901,7 +4901,7 @@
       "match_terms": [
         "Apple"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Apple eGift Card",
       "freshness": "recent"
     },
@@ -4923,13 +4923,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "ASOS"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "ASOS eGift Card",
       "freshness": "recent"
     },
@@ -4951,13 +4951,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Aveda"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Aveda eGift Card",
       "freshness": "recent"
     },
@@ -5007,13 +5007,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Boating Camping Fishing"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Boating Camping Fishing eGift Card",
       "freshness": "recent"
     },
@@ -5035,13 +5035,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Bonds"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Bonds eGift Card",
       "freshness": "recent"
     },
@@ -5063,13 +5063,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "City Beach"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "City Beach eGift Card",
       "freshness": "recent"
     },
@@ -5091,13 +5091,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-21T17:50:30+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Coles"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Coles eGift Cards",
       "freshness": "recent"
     },
@@ -5119,13 +5119,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Collins Booksellers"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Collins Booksellers eGift Card",
       "freshness": "recent"
     },
@@ -5147,13 +5147,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Cotton On"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Cotton On eGift Card",
       "freshness": "recent"
     },
@@ -5175,7 +5175,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "countryroad.com.au"
@@ -5183,7 +5183,7 @@
       "match_terms": [
         "Country Road"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Country Road eGift Card",
       "freshness": "recent"
     },
@@ -5205,7 +5205,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "dusk.com.au"
@@ -5213,7 +5213,7 @@
       "match_terms": [
         "Dusk"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Dusk eGift Card",
       "freshness": "recent"
     },
@@ -5235,13 +5235,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Estee Lauder"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Estee Lauder eGift Card",
       "freshness": "recent"
     },
@@ -5289,7 +5289,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "forevernew.com.au"
@@ -5297,7 +5297,7 @@
       "match_terms": [
         "Forever New"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Forever New eGift Card",
       "freshness": "recent"
     },
@@ -5319,7 +5319,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "freedom.com.au"
@@ -5327,7 +5327,7 @@
       "match_terms": [
         "Freedom Furniture"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Freedom Furniture eGift Card",
       "freshness": "recent"
     },
@@ -5349,13 +5349,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Funlab"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Funlab eGift Card",
       "freshness": "recent"
     },
@@ -5377,13 +5377,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Harris Farm"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Harris Farm eGift Card",
       "freshness": "recent"
     },
@@ -5405,13 +5405,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "IGA"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "IGA eGift card",
       "freshness": "recent"
     },
@@ -5433,13 +5433,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Intersport"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Intersport eGift Card",
       "freshness": "recent"
     },
@@ -5461,13 +5461,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "isubscribe"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "isubscribe eGift Card",
       "freshness": "recent"
     },
@@ -5489,7 +5489,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -5515,7 +5515,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "jbhifi.com.au"
@@ -5523,7 +5523,7 @@
       "match_terms": [
         "JB HI-FI"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "JB HI-FI eGift Card",
       "freshness": "recent"
     },
@@ -5545,13 +5545,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Jo Malone London"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Jo Malone London eGift Card",
       "freshness": "recent"
     },
@@ -5573,13 +5573,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Kathmandu"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Kathmandu eGift Card",
       "freshness": "recent"
     },
@@ -5627,13 +5627,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Kobo"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Kobo eGift Card",
       "freshness": "recent"
     },
@@ -5655,13 +5655,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "La Mer"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "La Mer eGift Card",
       "freshness": "recent"
     },
@@ -5683,13 +5683,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "M.A.C Cosmetics"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "M.A.C Cosmetics eGift Card",
       "freshness": "recent"
     },
@@ -5711,13 +5711,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "MacPac"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "MacPac eGift Card",
       "freshness": "recent"
     },
@@ -5739,13 +5739,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "MIMCO"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "MIMCO eGift Card",
       "freshness": "recent"
     },
@@ -5767,13 +5767,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Minecraft: Minecoins"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Minecraft: Minecoins eGift Card",
       "freshness": "recent"
     },
@@ -5795,13 +5795,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "OPSM"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "OPSM eGift Card",
       "freshness": "recent"
     },
@@ -5823,7 +5823,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "priceline.com.au"
@@ -5831,7 +5831,7 @@
       "match_terms": [
         "Priceline"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Priceline eGift Card",
       "freshness": "recent"
     },
@@ -5853,7 +5853,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [
         "rebelsport.com.au"
@@ -5861,7 +5861,7 @@
       "match_terms": [
         "rebel"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "rebel eGift Card",
       "freshness": "recent"
     },
@@ -5883,13 +5883,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Sephora"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Sephora eGift Card",
       "freshness": "recent"
     },
@@ -5911,13 +5911,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Sheridan"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Sheridan eGift Card",
       "freshness": "recent"
     },
@@ -5939,13 +5939,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Sunglass Hut"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Sunglass Hut eGift Card",
       "freshness": "recent"
     },
@@ -5967,13 +5967,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Target"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Target eGift Card",
       "freshness": "recent"
     },
@@ -5995,13 +5995,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Temple & Webster"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Temple & Webster eGift Card",
       "freshness": "recent"
     },
@@ -6023,13 +6023,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Trenery"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Trenery eGift Card",
       "freshness": "recent"
     },
@@ -6051,13 +6051,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Uber"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Uber eGift Card",
       "freshness": "recent"
     },
@@ -6079,13 +6079,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Uber Eats"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Uber Eats eGift Card",
       "freshness": "recent"
     },
@@ -6107,13 +6107,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ultimate Active"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ultimate Active eGift Card",
       "freshness": "recent"
     },
@@ -6135,13 +6135,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ultimate Beauty and Spa"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ultimate Beauty and Spa eGift Card",
       "freshness": "recent"
     },
@@ -6163,13 +6163,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ultimate Eats"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ultimate Eats eGift Card",
       "freshness": "recent"
     },
@@ -6191,13 +6191,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ultimate Her"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ultimate Her eGift Card",
       "freshness": "recent"
     },
@@ -6219,13 +6219,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Ultimate Shopping"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Ultimate Shopping eGift Card",
       "freshness": "recent"
     },
@@ -6247,13 +6247,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Weber BBQ"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Weber BBQ eGift Card",
       "freshness": "recent"
     },
@@ -6275,13 +6275,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Witchery"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Witchery eGift Card",
       "freshness": "recent"
     },
@@ -6331,13 +6331,13 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
         "Xbox"
       ],
-      "detail_checked_at": "2026-10-24T17:45:10+00:00",
+      "detail_checked_at": "2026-10-25T17:45:54+00:00",
       "detail_title": "Xbox eGift Card",
       "freshness": "recent"
     },
@@ -6359,7 +6359,7 @@
       "eligibility": "NRMA membership required; prices, redemption methods, fees and exclusions must be checked.",
       "tiers": [],
       "first_seen": "2026-10-12T00:00:00+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -6385,7 +6385,7 @@
       "eligibility": "Terms, participation and tier must be checked.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -6411,7 +6411,7 @@
       "eligibility": "Terms, participation and tier must be checked.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
@@ -6437,7 +6437,7 @@
       "eligibility": "Terms, participation and tier must be checked.",
       "tiers": [],
       "first_seen": "2026-10-13T05:24:28+00:00",
-      "last_seen": "2026-10-24T17:45:10+00:00",
+      "last_seen": "2026-10-25T17:45:54+00:00",
       "last_verified": null,
       "merchant_hosts": [],
       "match_terms": [
