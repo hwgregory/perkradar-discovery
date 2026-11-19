@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T23:25:40+00:00",
+  "generated_at": "2026-11-19T23:37:20+00:00",
   "offers": [
     {
       "id": "everyday-partner-all-accor",
@@ -6445,7 +6445,7 @@
       "match_terms": [
         "★ Apple eGift Card Use the new Apple Gift Card to get products, accessories, apps, games, music, movies, TV shows and more. Save 4%"
       ],
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-partner-cart",
@@ -6497,7 +6497,7 @@
       "match_terms": [
         "★ JB HI-FI eGift Card The perfect gift card for any occasion. Save 2%"
       ],
-      "freshness": "recent"
+      "freshness": "stale"
     }
   ]
 }
