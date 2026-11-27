@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T01:02:15+00:00",
+  "generated_at": "2026-11-27T01:02:19+00:00",
   "offers": [
     {
       "id": "everyday-partner-all-accor",
@@ -4929,7 +4929,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Apple eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-asos",
@@ -4957,7 +4957,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "ASOS eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-aveda",
@@ -4985,7 +4985,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Aveda eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-big-w",
@@ -5069,7 +5069,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Bonds eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-city-beach",
@@ -5125,7 +5125,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Coles eGift Cards",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-collins-booksellers",
@@ -5153,7 +5153,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Collins Booksellers eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-cotton-on",
@@ -5211,7 +5211,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Country Road eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-dusk",
@@ -5241,7 +5241,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Dusk eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-estee-lauder",
@@ -5269,7 +5269,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Estee Lauder eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-everyday-wish",
@@ -5325,7 +5325,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Forever New eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-freedom-furniture",
@@ -5355,7 +5355,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Freedom Furniture eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-funlab",
@@ -5383,7 +5383,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Funlab eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-harris-farm",
@@ -5467,7 +5467,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Intersport eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-isubscribe",
@@ -5495,7 +5495,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "isubscribe eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-jaycar-electronics",
@@ -5521,7 +5521,7 @@
       "match_terms": [
         "Jaycar Electronics"
       ],
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-jb-hi-fi",
@@ -5579,7 +5579,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Jo Malone London eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-kathmandu",
@@ -5661,7 +5661,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Kobo eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-la-mer",
@@ -5689,7 +5689,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "La Mer eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-m-a-c-cosmetics",
@@ -5773,7 +5773,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "MIMCO eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-minecraft-minecoins",
@@ -5801,7 +5801,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Minecraft: Minecoins eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-nine-west",
@@ -5857,7 +5857,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "OPSM eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-priceline",
@@ -5945,7 +5945,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Sephora eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-sheridan",
@@ -5973,7 +5973,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Sheridan eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-sunglass-hut",
@@ -6001,7 +6001,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Sunglass Hut eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-target",
@@ -6029,7 +6029,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Target eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-temple-webster",
@@ -6057,7 +6057,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Temple & Webster eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-trenery",
@@ -6085,7 +6085,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Trenery eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-uber",
@@ -6169,7 +6169,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Ultimate Active eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-ultimate-beauty-and-spa",
@@ -6197,7 +6197,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Ultimate Beauty and Spa eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-ultimate-eats",
@@ -6225,7 +6225,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Ultimate Eats eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-ultimate-her",
@@ -6253,7 +6253,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Ultimate Her eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-ultimate-shopping",
@@ -6281,7 +6281,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Ultimate Shopping eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-weber-bbq",
@@ -6309,7 +6309,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Weber BBQ eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-witchery",
@@ -6337,7 +6337,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Witchery eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-woolworths-supermarket",
@@ -6393,7 +6393,7 @@
       ],
       "detail_checked_at": "2026-11-12T18:07:06+00:00",
       "detail_title": "Xbox eGift Card",
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-egift-youfoodz",
@@ -6419,7 +6419,7 @@
       "match_terms": [
         "YouFoodz"
       ],
-      "freshness": "recent"
+      "freshness": "stale"
     },
     {
       "id": "nrma-partner-apple-egift-card-use-the-new-apple-gift-card-to-get-products-accessories-apps-games-music-movies-tv-",
